@@ -1,5 +1,8 @@
-# Milionář v lese
-  září 2017, Nebeská Rybná
+---
+title: Milionář v lese
+date_info: 2017-09
+place: Nebeská Rybná
+---
 
 Milionář v lese těžkou kládu nese,
 sypí, funí, heká, když pak větve seká.

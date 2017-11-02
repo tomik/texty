@@ -1,5 +1,8 @@
-# Když láska velí
-7. října 2017, Olomouc
+---
+title: Když láska velí
+date_info: 2017-10-07
+place: Olomouc
+---
 
 Když láska velí stínat hlavy,
 když pravda je víc než dobré mravy,
@@ -19,10 +22,10 @@ vše v jediný hladký celek.
 Když láska velí stínat hlavy,
 jak erupce žhavé lávy,
 vše, co je v cestě v sobě taví,
-řád nový skrze spoušť staví.
+řád nový skrze spoušť teď staví.
 
 Když láska velí lámat kosti,
-zahodit klíče, spálit mosty, do minulosti,
+zahodit klíče, spálit mosty - do minulosti,
 svléknout si kostým dvojjakosti
 a čtyřicet dní se postit.
 
@@ -37,4 +40,4 @@ a spatřit ji též všude kolem,
 ve vznešených chrámech i v kupkách s hnojem.
 
 Prohlédnout jinakosti klam,
-pochopit, že vše jsem jen já sám. 
+pochopit, že vše jsem jen já sám.

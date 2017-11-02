@@ -1,14 +1,16 @@
-
-# Meditace
-  červenec 2017, Vršov, Nebeská Rybná
+---
+title: Meditace
+date_info: 2017-07
+place: Vršov, Nebeská Rybná
+---
 
 Meditace je kladení na oltáře,
 poznání sebe sama jako lháře,
-svléknutí kostýmu i tváře, včetně svatozáře.
+svléknutí kostýmu i tváře - včetně svatozáře.
 
 Meditace je odevzdání všeho v tvaru,
 darování bez příjemce daru,
-ztrácení se v ranním oparu, hvězdného lihovaru.
+ztrácení se v ranním oparu hvězdného lihovaru.
 
 Meditace je zpomalení křídel v letu,
 zastavení palby, odložení bajonetů,

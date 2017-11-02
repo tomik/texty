@@ -1,11 +1,15 @@
-# Cesta z města
-  červenec 2017, Vršovice a Vršov
+---
+title: Cesta z města
+date_info: 2017-07
+place: Vršovice a Vršov
+---
 
 Nepotřebujem politiky, právníky, mistry rétoriky,
 ale metaře, údržbáře, popeláře.
-To abychom si odklidily, ten binec, co jsme si vytvořili,
-když jsme uvěřili v řepných polí snílky,
-že budou prima chvilky,
+To abychom si odklidili,
+ten binec, co jsme si vytvořili,
+když jsme uvěřili v řepných polí snílky.
+Že budou prima chvilky,
 až bude banán jeden jako druhý,
 až na vše budou zákona soustruhy,
 pro děti bezpečnostní auto popruhy
@@ -33,15 +37,15 @@ Trošku jako pijavice,
 sajem co jde, více je více.
 Vykácet lesy, srovnat hory,
 a na rozbahněnou pustou zemi,
-nahnat bagry a buldozery
+nahnat bagry a buldozery,
 nenechat kámen na kameni.
-A země pláče, tiše vzlyká,
+A země pláče, tiše vzlyká.
 Jsem pánem tvorstva, Mě se to netýká.
 Plním si přání na počkání, žádná příště,
 zde budou obchody a parkoviště,
 dobrá, možná i malé dětské hřiště.
-Vše krásné nové a hlavně okamžitě, zítra je dnes,
-Máme se dobře, pašíci v žitě,
+Vše krásné nové a hlavně okamžitě, zítra je dnes!
+Máme se dobře, pašíci v žitě.
 Prosím? Tady, že stál les?
 
 Tak obýváme obýváky,
@@ -77,5 +81,5 @@ Nechat svou vážnost na březích řek
 a dříve než náš šílený věk,
 podřízne větev na níž stojí,
 pozdravím život v bílém kroji,
-a nabídnu mu ruku svoji,
-ten život za to totiž stojí.
+a nabídnu mu ruku svoji.
+Ten život za to totiž stojí.

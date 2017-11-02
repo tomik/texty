@@ -1,5 +1,8 @@
-# Pláč a smích
-5. července 2017
+---
+title: Pláč a smích
+date_info: 2017-07-05
+place: ve vlaku do Prahy
+---
 
 Bez pláče v člověku smích není,
 zbyde jen poslušné úst zkřivení.

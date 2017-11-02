@@ -1,6 +1,8 @@
-
-# Ten co je vždy Sám
-  červenec 2017, Nebeská Rybná
+---
+title: Ten co je vždy sám
+date_info: 2017-07
+place: Nebeská Rybná
+---
 
 Ježíš plakal
 a krásně se prý smál.

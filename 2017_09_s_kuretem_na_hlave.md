@@ -1,5 +1,9 @@
-# S kuřetem na hlavě
-září 2017, Praha (inspirováno improvizací Jirky Charváta)
+---
+title: S kuřetem na hlavě
+date_info: 2017-09
+place: Praha
+comment: inspirováno improvizací Jirky Charváta
+---
 
 Šel jsem po ulici a spadlo na mne kuře.
 Není to zvláštní, co všechno se může?
@@ -17,7 +21,7 @@ Byl by hřích, bezhlavě, setřást to kuře z hlavy.
 S kuřetem na hlavě razím si cestu davy.
 Je v tom kus svobody kašlat na cizí stavy.
 
-S kuřetem mezi vlasy, chodit si jako klaun
+S kuřetem mezi vlasy, chodit si jako klaun,
 volit si vlastní trasy, cestovat bez zábran.
 Ať se mi vysměje, kdo sám je bez vady.
 Tímto teď děkuji, za žlutě opeřené dary,

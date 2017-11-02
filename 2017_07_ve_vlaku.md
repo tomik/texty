@@ -1,6 +1,8 @@
-
-# Ve vlaku
-  červenec 2017, ve vlaku do Prahy
+---
+title: Ve vlaku
+date_info: 2017-07
+place: ve vlaku do Prahy
+---
 
 Jak uchopit, co uchopit se nedá?
 
@@ -9,13 +11,13 @@ chvíle kdy jeden je víc než davy,
 slunce když nepálí, jen zlehka hladí
 a vánek dívkám sukně zvedá.
 
-Obloha jež před chvílí byla bledá,
+Obloha ještě před chvílí bledá,
 teď ožívá a mraky svádí,
 i lidé staří jsou zas mladí.
 
 Jak pochopit, co pochopit se nedá?
 
-Když vesmír, klouček neposeda
+Když vesmír, klouček neposeda,
 tančí skrz každý atom svého bytí,
 ať chmurno je, či slunko svítí,
 ať prosíme o chléb či jsme sytí.
@@ -33,6 +35,6 @@ Jak vystihnout, co vystihnout se nedá?
 A každý okamžik je děkování,
 pozvánka života k životu malování,
 k svlékání šatů, k milování,
-v temnotě sametové počínání.
+v temnotě sametové spočínání.
 
 Proč pochopit chci, co pochopit se nedá?

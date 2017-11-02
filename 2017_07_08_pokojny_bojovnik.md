@@ -1,9 +1,11 @@
-
-# Pokojný bojovník
-  8.7.2017, Vršovice, klidné sobotní ráno
+---
+title: Pokojný bojovník
+date_info: 2017-07-08
+place: Vršovice, klidné sobotní ráno
+---
 
 V lavicích čteme, že místo štítu, meče,
-vzal do ruky list a pero, anebo psací stroj,
+vzal do ruky list a pero anebo psací stroj,
 nebyl-li příliš těžký, případně diktafon,
 to když šel někam dál jen pěšky,
 dnes prostě hodil do kapsy ňákej foun,
@@ -11,10 +13,11 @@ pro všechny poledníky, rovnoběžky.
 
 Pak místo aby stínal hlavy,
 pánům ve stoje, dámám vkleče,
-Vymýšlel slov nototvary,
+vymýšlel slov nototvary,
 zpíval si hymnu, když v troubě peče,
-rýžový nákyp z nejčerstvějších zpráv a strachů,
-hrál si na Villona i na Máchu, s přáteli hrál na valchu
+sladký nákyp z nejčerstvějších zpráv a strachů,
+hrál si na Villona i na Máchu,
+s přáteli hrál na valchu
 a čekal až sladká můza utne jeho křeče.
 
 Vždyť rozvášnit lze mnohé davy,

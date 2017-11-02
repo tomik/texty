@@ -1,10 +1,13 @@
-# Šroubenky
-  červen 2017, Nebeská Rybná
+---
+title: Šroubenky
+date_info: 2017-06
+place: Nebeská Rybná
+---
 
 Dvě dívky nad hromádkou šroubků sedí,
 jak dva holoubci na kameni.
 Šroubky rovnají, váží, poměřují,
-do přihrádek rozdělují.
+do přihrádek je rozdělují.
 
 Dvě popelky, když třídí hrách,
 každý šroubek na miskách vah.
