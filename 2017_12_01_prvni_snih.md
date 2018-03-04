@@ -1,6 +1,10 @@
+---
+title: První sníh
+date_info: 2017-12-01
+place: Nebeská Rybná
+---
 
-Je noc, kterých je pomálu. Měsíc je téměř plný a majestátně se rozvaluje na obloze. A září. A známým místům nasazuje nové masky. Chalupa, stromy, cesta, to
-vše je stejné jako před pár hodinami. A přeci je všechno najednou jiné. Jako když se člověk podívá na důvěrně známý obraz, který již mnohokrát a najednou se zastaví. A žasne. A pojme ho krásné bláznovství. Bláznovství, které nutí tančit v dešti a psát rtěnkou na zrcadla. Bláznovství, které nás žene do polí, které nás pobízí k závodům v běhu s větrem, které se s námi válí v trávě a směje se s námi bez důvodu a tomu, že si myslíme, že potřebujeme důvod se smát.
+Je noc, kterých je pomálu. Měsíc je téměř plný a majestátně se rozvaluje na obloze. A září. A známým místům nasazuje nové masky. Chalupa, stromy, cesta, to vše je stejné jako před pár hodinami. A přeci je všechno najednou jiné. Jako když se člověk podívá na důvěrně známý obraz, který již mnohokrát a najednou se zastaví. A žasne. A pojme ho krásné bláznovství. Bláznovství, které nutí tančit v dešti a psát rtěnkou na zrcadla. Bláznovství, které nás žene do polí, které nás pobízí k závodům v běhu s větrem, které se s námi válí v trávě a směje se s námi bez důvodu a tomu, že si myslíme, že potřebujeme důvod se smát.
 
 Dnes mne oslovilo takové bláznovství. Obul jsem vysoké boty, oblékl kabát a vyrazil jsem ven z maringotky. A brzy se přidali i ostatní. Pes vycítil to bláznovství, které se mne chopilo. To pro to, že ho zná také. A ví, že takovéto síle nelze říci: Ne děkuji. Že takovouto sílu je třeba směrovat a nechat proudit. A proto věděl, že půjdeme ven. Do noci a do sněhu. A čekal na mne. Čekal na cestě nahoře nad domem. A byl šťastný. Tak jako dítě, které již dostalo nedělní zmrzlinu, ale teď zrovna před domem zastavil zmrzlinář znovu a nabízí jeho oblíbenou, citrónovou, tu bílou jako sníh a sladkou jako pohádka. A tatínek se usmívá a přitakává, že tedy ano a že ji jdeme koupit. Já jsem ten tatínek a on je to díťě. Tak byl šťastný.
 
